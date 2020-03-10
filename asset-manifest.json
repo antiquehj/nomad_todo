@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomad_todo/static/css/main.4faf5546.chunk.css",
+    "main.js": "/nomad_todo/static/js/main.b7c6347d.chunk.js",
+    "main.js.map": "/nomad_todo/static/js/main.b7c6347d.chunk.js.map",
+    "runtime-main.js": "/nomad_todo/static/js/runtime-main.0694e5d7.js",
+    "runtime-main.js.map": "/nomad_todo/static/js/runtime-main.0694e5d7.js.map",
+    "static/js/2.99c04c95.chunk.js": "/nomad_todo/static/js/2.99c04c95.chunk.js",
+    "static/js/2.99c04c95.chunk.js.map": "/nomad_todo/static/js/2.99c04c95.chunk.js.map",
+    "index.html": "/nomad_todo/index.html",
+    "precache-manifest.ac347acdd8e151d442043e4bd28750a6.js": "/nomad_todo/precache-manifest.ac347acdd8e151d442043e4bd28750a6.js",
+    "service-worker.js": "/nomad_todo/service-worker.js",
+    "static/css/main.4faf5546.chunk.css.map": "/nomad_todo/static/css/main.4faf5546.chunk.css.map",
+    "static/js/2.99c04c95.chunk.js.LICENSE.txt": "/nomad_todo/static/js/2.99c04c95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0694e5d7.js",
+    "static/js/2.99c04c95.chunk.js",
+    "static/css/main.4faf5546.chunk.css",
+    "static/js/main.b7c6347d.chunk.js"
+  ]
+}
